@@ -36,6 +36,7 @@ class Sensei extends Ninja{
         this.health = 210
         this.speed = 10
         this.strength = 10
+        this.wisdom = 10
     }
     speakWisdom(){
         console.log("What one programmer can do in one month, two programmers can do in two months.")
